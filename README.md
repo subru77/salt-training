@@ -1,4 +1,4 @@
 salt-training
 =============
 
-The training that I did at SCALE
+The training that I did at SCALE. Can it be pused ? 
