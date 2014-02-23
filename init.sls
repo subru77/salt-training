@@ -1,3 +1,0 @@
-whoami:
-  cmd:
-    - whoami
