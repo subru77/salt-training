@@ -1,3 +1,3 @@
 whoami:
   cmd:
-    - whoami
+    - run
